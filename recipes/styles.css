@@ -1,0 +1,23 @@
+img {
+  width: 500px;
+  height: auto;
+}
+
+body {
+  background-color: #0066ff;
+}
+
+.title {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.subtitle {
+  font-weight: bold;
+}
+
+.steps {
+  list-style-position: inside;
+  background-color: #cc00ff;
+  background: linear-gradient(to right, #cc00ff 60%, #0066ff 100%);
+}
